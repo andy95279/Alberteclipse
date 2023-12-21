@@ -6,8 +6,8 @@ public class principal {
 		System.out.println("Holiwankenobi");	
 		System.out.println("agur yogur!");	
 		System.out.println("ciaopesaco!");	
-
-
+		System.out.println("adios de verdad");	
+		
 	}
 
 }
